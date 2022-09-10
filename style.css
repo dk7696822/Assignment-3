@@ -10,12 +10,16 @@
 body {
   /* background: black; */
   background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
-  margin-left: 180px;
   /* margin-right: 150px; */
   margin-top: 0;
   margin-bottom: 0;
   font-family: 'lato';
 }
+.mental-health{
+  margin: 0 180px;
+  width: 1000px;
+}
+
 .cover-page {
   display: grid;
   grid-template-columns: 1fr 1fr;
